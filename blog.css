@@ -1,0 +1,36 @@
+body{
+	border: 20px solid gray;	
+}
+
+#TITLE {
+	font-family: lobster;
+	font-size: 50px;
+	color: slategray;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+.H3 {
+	font-family: pacifico;
+	color: slategray;
+	text-transform: uppercase;
+}
+
+.ULIST1 {
+	font-family: indie flower;
+}
+
+li{
+	margin: 2% 2% auto auto;
+}
+
+p{
+
+	margin-left: 10%;
+	font-family: indie flower;
+
+}
+
+hr{
+	width: 50%;
+}
